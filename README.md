@@ -1,4 +1,4 @@
-# Substrate & FRAME Supply Chain Sample
+# Tetcore & FABRIC Supply Chain Sample
 
 This sample project demonstrates how the [Substrate](https://www.substrate.io/) framework for
 building blockchains and its standard
